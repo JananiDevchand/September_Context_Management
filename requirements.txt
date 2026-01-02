@@ -1,0 +1,9 @@
+flask
+groq
+sentence-transformers
+hnswlib
+numpy
+python-dotenv
+
+
+
